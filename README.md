@@ -1,5 +1,5 @@
 username: petter.bakke77@gmail.com
-password: Bakke27
+password: Bakke2706
 
 
 # 🚀 Getting started with Strapi
